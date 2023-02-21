@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-echo ¨Sync service starting"
+echo "Sync service starting"
 
 
